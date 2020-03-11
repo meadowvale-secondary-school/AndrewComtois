@@ -1,4 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:1 Playground Basics">
+   </FileRef>
+   <FileRef
+      location = "group:2 Naming and Indentifiers">
+   </FileRef>
+   <FileRef
+      location = "group:3 Strings">
+   </FileRef>
+   <FileRef
+      location = "group:4 Hello World">
+   </FileRef>
+   <FileRef
+      location = "group:6 Functions">
+   </FileRef>
+   <FileRef
+      location = "group:7 BoogieBot">
+   </FileRef>
+   <FileRef
+      location = "group:8 Constants and Variables">
+   </FileRef>
+   <FileRef
+      location = "group:9 Types">
+   </FileRef>
+   <FileRef
+      location = "group:10 Parameters and Results">
+   </FileRef>
+   <FileRef
+      location = "group:11 Making Decisions">
+   </FileRef>
+   <FileRef
+      location = "group:12 Instances">
+   </FileRef>
+   <FileRef
+      location = "group:13 QuestionBot">
+   </FileRef>
+   <FileRef
+      location = "group:14 Arrays and Loops">
+   </FileRef>
+   <FileRef
+      location = "group:15 Defining Structures">
+   </FileRef>
+   <FileRef
+      location = "group:16 QuestionBot 2">
+   </FileRef>
+   <FileRef
+      location = "group:18 Adaptive User Interfaces">
+   </FileRef>
+   <FileRef
+      location = "group:19 Enumerations and Switch">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
 </Workspace>
